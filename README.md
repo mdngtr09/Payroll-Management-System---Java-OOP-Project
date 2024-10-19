@@ -4,5 +4,4 @@ This project was developed as part of a payroll management solution for a small 
 
 Check the GIF below to see the system in action!
 
-
-
+![1018](https://github.com/user-attachments/assets/b348743b-62d5-4eb1-92c1-920ca0ed162a)
